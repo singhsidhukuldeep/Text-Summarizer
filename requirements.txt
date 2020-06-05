@@ -1,0 +1,16 @@
+#pip3 install -r requirements.txt
+
+# NLTK
+nltk
+networkx
+
+# BERT
+bert-extractive-summarizer
+## spacy setup
+spacy==2.1.3
+# python -m spacy download en_core_web_md
+transformers==2.2.2
+neuralcoref
+
+# BART / T5
+transformers --upgrade
