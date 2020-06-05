@@ -35,7 +35,7 @@ WASHINGTON  —   Congressional Republicans have a new fear when it comes to the
 ## Results
 
 | # | Model | Time Taken(with Downloads) | Completed | Summary | Time Taken (without downloads) |
-| --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- |
 | 1 | NLTK Corpus | 0 | True | The incoming Trump administration could choose... | 0 |
 | 2 | bert-base-uncased kmeans | 27 | True | The incoming Trump administration could choose... | 15 |
 | 3 | bert-base-uncased gmm | 3 | True | The incoming Trump administration could choose... | 4 |
