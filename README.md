@@ -58,7 +58,7 @@ WASHINGTON  —   Congressional Republicans have a new fear when it comes to the
 | 20 | t5-large | SKIPPED | False | ERROR | SKIPPED |
 | 21 | t5-small | 9 | True | incoming administration could | 11 |
 
-*If you want compare the outputs, go to `results` folder*
+*If you want to compare the outputs, go to `results` folder*
 
 > All time is in seconds
 
