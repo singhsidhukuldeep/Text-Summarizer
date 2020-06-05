@@ -9,8 +9,8 @@ bert-extractive-summarizer
 ## spacy setup
 spacy==2.1.3
 # python -m spacy download en_core_web_md
-transformers==2.2.2
+transformers
 neuralcoref
 
 # BART / T5
-transformers --upgrade
+transformers

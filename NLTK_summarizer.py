@@ -15,7 +15,7 @@ class SummarizerNLTK:
     """
     NLTK text summarizer
     :param max_length: This is the maximum number of sentences in the summary
-    :param min_length: This is the minimum number of sentences in the summary. (Not being considerd right now)
+    :param min_length: This is the minimum number of sentences in the summary. (Not being considered right now)
     """
     def __init__(self, max_length=2, min_length=1):
         self.max_length = max_length
