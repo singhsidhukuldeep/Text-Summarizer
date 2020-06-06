@@ -66,6 +66,10 @@ WASHINGTON  —   Congressional Republicans have a new fear when it comes to the
 
 > ERROR means the process didn't complete
 
+**This code was run on Google Colab (GPU Runtime) which has fairly good hardware.**
+
+**Also it might take some time downloading the large pre-trained models**
+
 ## Conclusion
 
 NLTK works faster and better most of the time.
