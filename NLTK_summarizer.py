@@ -3,7 +3,7 @@ try:
     nltk.download('stopwords')
     nltk.download('punkt')
 except Exception as exp:
-    print(" ERROR {exp}")
+    print(f" ERROR {exp}")
     raise Exception("NLTK download failed")
 from nltk.corpus import stopwords
 from nltk.cluster.util import cosine_distance
