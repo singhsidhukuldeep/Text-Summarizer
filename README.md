@@ -83,15 +83,15 @@ facebook BART does too many computatons and exhausts memory really quickly.
 
 ## To-do
 
-☐ Run on full datasets 
+- [ ] Run on full datasets 
 
-☑ Compare effciency on GPUs
+- [x] Compare effciency on GPUs
 
-☑ Add facebook's BART
+- [x] Add facebook's BART
 
-☑ Add Google T5
+- [x] Add Google T5
 
-☑ Add BERT large
+- [x] Add BERT large
 
 ## CREDITS
 
