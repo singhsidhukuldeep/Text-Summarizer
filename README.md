@@ -7,6 +7,8 @@ Comparing state of the art models for text summary generation
 
 ### Setup
 
+Clone the repo
+
 ```shell
 pip3 install -r requirements.txt
 python -m spacy download en_core_web_md
