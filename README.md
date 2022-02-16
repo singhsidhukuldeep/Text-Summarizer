@@ -2,6 +2,7 @@
 Comparing state of the art models for text summary generation
 
 [![Google Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/singhsidhukuldeep/Text-Summarizer/blob/master/Text_Summary_%5BGoogle_Colab%5D.ipynb)
+[![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/singhsidhukuldeep/Text-Summarizer.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/singhsidhukuldeep/Text-Summarizer/context:python)
 
 ## Usage
 
