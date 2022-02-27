@@ -1,8 +1,21 @@
-# Text-Summarizer
-Comparing state of the art models for text summary generation
 
-[![Google Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/singhsidhukuldeep/Text-Summarizer/blob/master/Text_Summary_%5BGoogle_Colab%5D.ipynb)
-[![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/singhsidhukuldeep/Text-Summarizer.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/singhsidhukuldeep/Text-Summarizer/context:python)
+
+<p align="center">
+<img src="https://github.com/singhsidhukuldeep/Text-Summarizer/raw/master/header.png" width="90%" alt="Go to https://pypi.org/project/request-boost/">
+</p>
+<h1 align="center">Text-Summarizer</h1>
+<p align="center">Comparing state of the art models for text <b>summary generation</b></p>
+<p align="center">
+<a href="https://colab.research.google.com/github/singhsidhukuldeep/Text-Summarizer/blob/master/Text_Summary_%5BGoogle_Colab%5D.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Go to Google Colab"/></a>
+<a href="https://lgtm.com/projects/g/singhsidhukuldeep/Text-Summarizer/context:python"><img src="https://img.shields.io/lgtm/grade/python/g/singhsidhukuldeep/Text-Summarizer.svg?logo=lgtm&logoWidth=18" alt="Go to LGTM"/></a>
+</p>
+
+
+
+<!-- [![Google Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/singhsidhukuldeep/Text-Summarizer/blob/master/Text_Summary_%5BGoogle_Colab%5D.ipynb)
+[![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/singhsidhukuldeep/Text-Summarizer.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/singhsidhukuldeep/Text-Summarizer/context:python) -->
+
+---
 
 ## Usage
 
@@ -87,6 +100,8 @@ facebook BART does too many computatons and exhausts memory really quickly.
 ## To-do
 
 - [ ] Run on full datasets 
+
+- [ ] Publish a wrapper for PyPI 
 
 - [x] Compare effciency on GPUs
 
