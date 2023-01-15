@@ -31,10 +31,12 @@ python -m spacy download en_core_web_md
 ```Python
 from NLTK_summarizer import SummarizerNLTK
 print(SummarizerNLTK().summary(text = ""))
-
+```
+```Python
 from BERT_summarizer import SummarizerBERT
 print(SummarizerBERT().summary(text = ""))
-
+```
+```Python
 from T5_BART_summarizer import SummarizerT5BART
 print(SummarizerT5BART().summary(text = ""))
 ```
