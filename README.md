@@ -113,6 +113,16 @@ facebook BART does too many computatons and exhausts memory really quickly.
 
 - [x] Add BERT large
 
+  
+<h2 align="center">🌟⭐✨STAR ME✨⭐🌟</h2>
+
+<p align="center">
+  <b>You can give me a small 🤓 dopmaine 🤝 support by ⭐STARRING⭐ this project</b>
+  
+<img src="https://api.star-history.com/svg?repos=singhsidhukuldeep/Text-Summarizer&type=Date" width="70%" alt="🌟⭐✨STAR ME✨⭐🌟">
+</p>
+
+
 ## CREDITS
 
 >Kuldeep Singh Sidhu
